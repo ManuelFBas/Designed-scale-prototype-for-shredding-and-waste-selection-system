@@ -110,10 +110,6 @@ shredding-waste-thesis/
 │   ├── BOM.xlsx                      # Bill of materials and costs
 │   └── assembly.md                   # Assembly manual
 │
-<!-- ├── 💻 software/                      # Control code
-│   ├── control/                      # System control logic
-│   ├── hmi/                          # Control panel (buttons & interface)
-│   └── requirements.txt -->
 │
 ├── 🧪 tests/                         # Testing and validation
 │   ├── raw_data/                     # Raw experimental data
