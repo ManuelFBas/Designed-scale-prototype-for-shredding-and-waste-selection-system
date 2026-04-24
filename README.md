@@ -9,7 +9,7 @@
 
 **Undergraduate thesis to obtain the degree of Mechatronics Engineer**
 
- · [🔧 Hardware](hardware/) · [🧪 Results](tests/) · [📸 Gallery](media/)
+ · [🔧 Hardware](hardware/) · [💡 Electrical](media/) · [🧪 Results](tests/) · [📸 Gallery](media/) 
 
 </div>
 
@@ -53,9 +53,9 @@ The system consists of two main subsystems:
 | Blade material | Stainless steel AISI 304 | PLA (3D printed) |
 | Frame material | Steel | MDF + Plywood + PLA |
 | Transmission | Gear system | Gear system (PLA) |
-| Motor | — | Gearmotor 6 RPM, 91 kg·cm |
+| Motor | Gearmotor 12 rpm , 5 hp  | Gearmotor 6 RPM, 91 kg·cm |
 | Target mass flow | 1,732 kg/h | Scaled proportionally |
-| Number of blades | — | 28 blades, 15° offset each |
+| Number of blades | 28 blades, 15° offset each | 28 blades, 15° offset each |
 
 **Material specifications for shredding:**
 - Type: Wet organic waste (fruits, vegetables, food scraps, dry leaves)
@@ -76,6 +76,10 @@ The system consists of two main subsystems:
 | Full-scale efficiency | 8,475.84 kNem/hr | 26.49 kNem/hr |
 
 ---
+## 🦿 Funtional tests
+
+There are some videos about the prototype funtional
+
 
 ## 🏗️ Repository Structure
 
@@ -159,13 +163,12 @@ Functional verification of the full system — organic waste shredding and conve
 
 | Name | Role |
 |---|---|
-| **Carlos Andrés Bernal Carvajal** | Author |
 | **Manuel Felipe Bastidas Díaz** | Author |
+| **Carlos Andrés Bernal Carvajal** | Author |
 | **Steven Alexander Pérez Yela** | Author |
 
 **Advisors:**
 - Dr. Ing. Richard Geovanni Morán Perafán
-- Mg. Fabio Camilo Gómez Meneses
 
 **Institution:** Universidad Mariana — Faculty of Engineering, Mechatronics Engineering Program  
 **City:** San Juan de Pasto, Nariño, Colombia  
@@ -177,8 +180,8 @@ Functional verification of the full system — organic waste shredding and conve
 
 | Organization | Role |
 |---|---|
-| **Minciencias** | Primary funder — *Ciencia Cierta* program (COP $100,000,000) |
-| **Universidad Mariana** | Research group & additional funding (COP $2,000,000) |
+<!-- | **Minciencias** | Primary funder — *Ciencia Cierta* program (COP $100,000,000) |
+| **Universidad Mariana** | Research group & additional funding (COP $2,000,000) | -->
 | **La Mesa Community, Samaniego** | Beneficiary — Biocompost2 project |
 
 ---
@@ -203,7 +206,7 @@ You are free to share and adapt the material with attribution, provided it is no
 
 ## 📬 Contact
 
-For academic or technical inquiries related to this project, please contact the **Faculty of Engineering, Universidad Mariana**, San Juan de Pasto, Nariño, Colombia.
+For academic or technical inquiries related to this project, please feel free to contact me **manuelfebastidas@gmail.com** or contact to the **Faculty of Mechatronic Engineering, Universidad Mariana**, San Juan de Pasto, Nariño, Colombia.
 
 ---
 
