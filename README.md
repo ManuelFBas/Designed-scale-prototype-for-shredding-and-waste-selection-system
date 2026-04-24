@@ -9,7 +9,7 @@
 
 **Undergraduate thesis to obtain the degree of Mechatronics Engineer**
 
-[📄 Full Thesis](docs/thesis/thesis_final.pdf) · [🔧 Hardware](hardware/) · [🧪 Results](tests/) · [📸 Gallery](media/)
+ · [🔧 Hardware](hardware/) · [🧪 Results](tests/) · [📸 Gallery](media/)
 
 </div>
 
@@ -17,9 +17,10 @@
 
 ## 📋 Project Overview
 
-This repository contains all technical documentation, design files, control code, and experimental results for the **1:4 scale prototype** of an organic waste shredding and selection system. The prototype was developed for the **pilot composting plant of the La Mesa community**, municipality of Samaniego, department of Nariño, Colombia.
+This repository contains all technical documentation, design files, electrical control , and experimental results for the **1:4 scale prototype** of an organic waste shredding and selection system. The prototype was developed for the **pilot composting plant of the La Mesa community**, municipality of Samaniego, department of Nariño, Colombia.
 
-The project is part of the **Biocompost2** program, funded by **Minciencias** (Colombia's Ministry of Science) with COP $100,000,000 through the *Ciencia Cierta* competition, with an additional COP $2,000,000 contribution from **Universidad Mariana** for prototype construction.
+
+<!-- The project is part of the **Biocompost2** program, funded by **Minciencias** (Colombia's Ministry of Science) with COP $100,000,000 through the *Ciencia Cierta* competition, with an additional COP $2,000,000 contribution from **Universidad Mariana** for prototype construction. -->
 
 ### Problem Context
 
@@ -109,10 +110,10 @@ shredding-waste-thesis/
 │   ├── BOM.xlsx                      # Bill of materials and costs
 │   └── assembly.md                   # Assembly manual
 │
-├── 💻 software/                      # Control code
+<!-- ├── 💻 software/                      # Control code
 │   ├── control/                      # System control logic
 │   ├── hmi/                          # Control panel (buttons & interface)
-│   └── requirements.txt
+│   └── requirements.txt -->
 │
 ├── 🧪 tests/                         # Testing and validation
 │   ├── raw_data/                     # Raw experimental data
