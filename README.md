@@ -87,10 +87,12 @@ There are some videos about the prototype funtional:
 </video> -->
 
 ### Sistema Total en acción
-<video width="100%" controls autoplay loop muted>
+![Full System Demo](media/Video/Full_System.gif)
+
+<!-- <video width="100%" controls autoplay loop muted>
   <source src="media/Video/Full_System.mp4" type="video/mp4">
   Tu navegador no soporta el elemento video.
-</video>
+</video> -->
 
 
 ## 🏗️ Repository Structure
