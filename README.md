@@ -87,6 +87,7 @@ There are some videos about the prototype funtional:
 </video> -->
 
 ### Sistema Total en acción
+
 ![Full System Demo](media/Video/Full_System.gif)
 
 <!-- [![Watch the video](media/thumbnail.jpg)](https://github.com/ManuelFBas/Designed-scale-prototype-for-shredding-and-waste-selection-system/raw/main/media/Video/Full_System.mp4) -->
