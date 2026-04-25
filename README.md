@@ -86,7 +86,7 @@ There are some videos about the prototype funtional:
   Tu navegador no soporta el elemento video.
 </video> -->
 
-### Sistema Total en acción
+### Full system in action
 
 ![Full System Demo](media/Video/Full_System.gif)
 
