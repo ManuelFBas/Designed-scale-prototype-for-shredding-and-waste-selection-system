@@ -88,7 +88,7 @@ There are some videos about the prototype funtional:
 
 ### Sistema Total en acción
 <video width="100%" controls autoplay loop muted>
-  <source src="media/videos/Full_System.mp4" type="video/mp4">
+  <source src="media/Video/Full_System.mp4" type="video/mp4">
   Tu navegador no soporta el elemento video.
 </video>
 
