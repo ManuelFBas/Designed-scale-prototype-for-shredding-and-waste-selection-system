@@ -78,7 +78,19 @@ The system consists of two main subsystems:
 ---
 ## 🦿 Funtional tests
 
-There are some videos about the prototype funtional
+There are some videos about the prototype funtional:
+
+<!-- ### Cinta Transportadora en Movimiento
+<video width="100%" controls autoplay loop muted>
+  <source src="media/videos/Conveyor_Demo.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento video.
+</video> -->
+
+### Sistema Total en acción
+<video width="100%" controls autoplay loop muted>
+  <source src="media/videos/Full_System.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento video.
+</video>
 
 
 ## 🏗️ Repository Structure
