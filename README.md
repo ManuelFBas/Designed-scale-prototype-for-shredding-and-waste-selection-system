@@ -131,7 +131,6 @@ shredding-waste-thesis/
 │   ├── BOM.xlsx                      # Bill of materials and costs
 │   └── assembly.md                   # Assembly manual
 │
-│
 ├── 🧪 tests/                         # Testing and validation
 │   ├── raw_data/                     # Raw experimental data
 │   ├── analysis/                     # Statistical analysis
@@ -197,8 +196,6 @@ Functional verification of the full system — organic waste shredding and conve
 
 | Organization | Role |
 |---|---|
-<!-- | **Minciencias** | Primary funder — *Ciencia Cierta* program (COP $100,000,000) |
-| **Universidad Mariana** | Research group & additional funding (COP $2,000,000) | -->
 | **La Mesa Community, Samaniego** | Beneficiary — Biocompost2 project |
 
 ---
