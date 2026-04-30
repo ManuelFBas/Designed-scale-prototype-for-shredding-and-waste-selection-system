@@ -15,7 +15,6 @@
 Alternative 2 was selected for the waste shredder, as it received the highest score according to the specific evaluation criteria for this plant. This alternative offers the best combination of cutting efficiency, energy consumption, and long-term maintenance. Its electric motor and gear system allows power to be transmitted efficiently and precisely, ensuring that the multiple-tooth blades operate with the force needed to process hard materials and reduce the risk of jams. These blades are ideal for shredding waste, as their design allows for a greater number of cutting points. Combined with the polygonal shaft, it is an excellent choice for this type of machinery, providing a secure, slip-free connection between the shaft and blades, simplifying assembly and disassembly for maintenance and replacement.
 
 ---
-
 <!-- Centered image (HTML) -->
 <p align="center">
   <img src="C:\Users\Manuel B\Desktop\Git\Proyecto_Tesis\Designed-scale-prototype-for-shredding-and-waste-selection-system\media\Images\Tabla_homogeneidad_banda.png" alt="Alt text" width="600"/>
