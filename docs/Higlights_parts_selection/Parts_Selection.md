@@ -16,10 +16,10 @@ Alternative 2 was selected for the waste shredder, as it received the highest sc
 
 ---
 <!-- Centered image (HTML) -->
-<p align="center">
-  <img src="C:\Users\Manuel B\Desktop\Git\Proyecto_Tesis\Designed-scale-prototype-for-shredding-and-waste-selection-system\media\Images\Tabla_homogeneidad_banda.png" alt="Alt text" width="600"/>
-</p>
-```
+
+![Tabla de homogeneidad](media/Images/tabla_homogeneidad_molino.png)
+
+---
 
 # Table for conveyor belt
 **Score for conveyor belt model selection**
@@ -38,9 +38,6 @@ Alternative 2 was selected for the waste shredder, as it received the highest sc
 Alternative 3 was selected as it delivers the best results across all evaluated criteria, outperforming the other options in efficiency, cost, performance, and adaptability to project requirements. Its chain drive transmission system provides reliable power transfer, especially under heavy load conditions, minimizing slippage and ensuring constant, uniform movement. The screw tensioner simplifies maintenance by allowing adjustments without disassembling major components. Additionally, the inclusion of support rollers distributes the load evenly, reducing belt stress, preventing concentrated wear points, extending belt lifespan, and lowering maintenance costs and downtime.
 
 ---
+![Tabla de homogeneidad](media\Images\Tabla_homogeneidad_banda.png)
 
-<!-- Centered image (HTML) -->
-<p align="center">
-  <img src="C:\Users\ManuelB\Desktop\Git\Proyecto_Tesis\Designed-scale-prototype-for-shredding-and-waste-selection-system\media\Images\Tabla_homogeneidad_banda.png" alt="Alt text" width="600"/>
-</p>
 ```

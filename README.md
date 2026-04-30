@@ -78,8 +78,6 @@ The system consists of two main subsystems:
 ---
 ## 🦿 Funtional tests
 
-There are some videos about the prototype funtional:
-
 <!-- ### Cinta Transportadora en Movimiento
 <video width="100%" controls autoplay loop muted>
   <source src="media/videos/Conveyor_Demo.mp4" type="video/mp4">
