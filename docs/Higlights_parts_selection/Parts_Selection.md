@@ -16,11 +16,9 @@ Alternative 2 was selected for the waste shredder, as it received the highest sc
 
 ---
 
----
-
 <!-- Centered image (HTML) -->
 <p align="center">
-  <img src="C:\Users\ManuelB\Desktop\Git\Proyecto_Tesis\Designed-scale-prototype-for-shredding-and-waste-selection-system\media\Images\Tabla_homogeneidad_molino.png" alt="Alt text" width="600"/>
+  <img src="C:\Users\Manuel B\Desktop\Git\Proyecto_Tesis\Designed-scale-prototype-for-shredding-and-waste-selection-system\media\Images\Tabla_homogeneidad_banda.png" alt="Alt text" width="600"/>
 </p>
 ```
 
@@ -44,6 +42,6 @@ Alternative 3 was selected as it delivers the best results across all evaluated 
 
 <!-- Centered image (HTML) -->
 <p align="center">
-  <img src="C:\Users\Manuel B\Desktop\Git\Proyecto_Tesis\Designed-scale-prototype-for-shredding-and-waste-selection-system\media\Images\Tabla_homogeneidad_banda.png" alt="Alt text" width="600"/>
+  <img src="C:\Users\ManuelB\Desktop\Git\Proyecto_Tesis\Designed-scale-prototype-for-shredding-and-waste-selection-system\media\Images\Tabla_homogeneidad_banda.png" alt="Alt text" width="600"/>
 </p>
 ```
